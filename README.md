@@ -93,7 +93,7 @@ npx cypress open --detached
 ```
 
 ## Questions
-- For Further Questions and Bug reports Please reach out to me at Github [Dylan](https://github.com/gh0st0wls) or email me at adarshsidhu83@gmail.com
+- For Further Questions and Bug reports Please reach out to me at Github [Dylan](https://github.com/gh0st0wls) or email me at dylanbender3@gmail.com
 
 ## Links
 - [Video Demo]()
